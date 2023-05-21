@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hi! My name is Landon Batts and I am in graduate school for a Master's degree in statistics at North Carolina State University. I am a huge sports fan and love to watch from an analytical perspective. I plan to pursue this in the future in hopes to work for a professional sports team in the statistics department.
