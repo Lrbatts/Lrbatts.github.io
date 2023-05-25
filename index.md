@@ -1,1 +1,3 @@
-Hi! My name is Landon Batts and I am in graduate school for a Master's degree in statistics at North Carolina State University. I am a huge sports fan and love to watch from an analytical perspective. I plan to pursue this in the future in hopes to work for a professional sports team in the statistics department.
+Hi! My name is Landon Batts and I am in graduate school for a Master's degree in statistics at North Carolina State University. I am a huge sports fan and love to watch from an analytical perspective. I plan to pursue this in the future in hopes to work for a professional sports team in the statistics department. 
+In this blog I hope to write about my journey learning statistics and how data science can impact the world. My email is Lrbatts@ncsu.edu. Here is a [link to my linkedIn page](https://www.linkedin.com/in/landon-batts-211689230/).  
+![DSC_1222](https://github.com/Lrbatts/Lrbatts.github.io/assets/134226606/8e09d849-02b8-40c1-a2f6-f678dc1850d6)
